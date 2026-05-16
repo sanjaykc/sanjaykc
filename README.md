@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sanjay 👋
 
-<!--
-**sanjaykc/sanjaykc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Lead / IT Specialist with around 15 years of experience in enterprise application development, enterprise UI engineering, and full stack web application development.
 
-Here are some ideas to get you started:
+## Current Focus
+- Enterprise UI Engineering
+- React.js Development
+- UI/UX Design
+- Analytics Dashboards
+- AI-enabled Enterprise Applications
+- watsonx & Watson Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- React.js
+- JavaScript
+- Node.js
+- Java/J2EE
+- AngularJS
+- DB2
+- IBM Cloud
+- watsonx
+- HTML5 / CSS3
+
+## Professional Interests
+- Enterprise Frontend Architecture
+- Modern UI Engineering
+- AI-assisted Applications
+- Workflow Automation Platforms
+- Dashboard & Analytics Systems
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: Coming Soon
