@@ -29,5 +29,5 @@ Technical Lead / IT Specialist with around 15 years of experience in enterprise 
 - Dashboard & Analytics Systems
 
 ## Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://linkedin.com/in/??
 - Portfolio: Coming Soon
